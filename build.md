@@ -2,10 +2,7 @@ Music: 7.03.52
 YouTube: 19.16.39  
 Music-Extended: 7.08.52  
 YouTube-Extended: 19.25.39  
-Facebook: 472.0.0.45.79  
-Twitch: 32.5.3  
-TikTok: 32.5.3  
-Strava: 320.12  
+Twitter: 10.49.0-release.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
